@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Bullish Boys NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Bullish Boys NFT Project is dedicated to giving back to you! Want to win your share of $50,000? of course you do! All you need to do is mint one of our NFT and your life could chnage"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The Bullish Boys NFT Project is dedicated to giving back to you! Want to win your share of $50,000? of course you do! Every NFT you mint is a entry, could you be the lucky winner?';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
